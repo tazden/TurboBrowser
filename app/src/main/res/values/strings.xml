@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TurboBrowser</string>
+    <string name="Go" />
+    <string name="search">Search</string>
+</resources>
